@@ -28,5 +28,5 @@ async def quote(ctx):
     random_quote = random.choice(quotes)
     await ctx.send(f'"{random_quote}"')
 
-bot.run('MTE0NTQyMDU5OTA4NzM1MzkyOA.Gyj8RH.ROQokQvhDSdojpzVc-2YxHh8JjqQa9TQD216r0')
+bot.run('youre discord token')
 
